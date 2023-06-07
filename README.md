@@ -11,7 +11,7 @@ Es un jóven estudiante de diseño en la UC. Le gusta el diseño gráfico y de i
 
 | FOTO | VIVE EN | OCUPACIÓN | COMPORTAMIENTO | NECESIDAD/META |
 |:-----|:-----------|:----------|:---------------|:---------------|
-| ![Matías-Gómez](https://github.com/tbravofr/Final/assets/127959171/8bea9407-eae7-46de-90a5-5261e3004bbc) | Vitacura, Santiago. | Dueño de su empresa startup. | Es competitivo y estudioso, por lo que le va bien en la universidad, pero no pierde la oportunidad de salir de fiesta con sus amigos y amigas. | Estar al tanto del desempeño de sus compañeros ya que le gusta compararse y siempre busca formas de superarse.  |
+| ![Matías-Gómez](https://github.com/tbravofr/Final/assets/127959171/8bea9407-eae7-46de-90a5-5261e3004bbc) | Vitacura, Santiago. | Estudiante de diseño | Es competitivo y estudioso, por lo que le va bien en la universidad, pero no pierde la oportunidad de salir de fiesta con sus amigos y amigas. | Estar al tanto del desempeño de sus compañeros ya que le gusta compararse y siempre busca formas de superarse.  |
 
 ### **Usuario extremo 2: Sofía Alcalde, 30 años.**
 
