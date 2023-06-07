@@ -35,9 +35,9 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 
 Fuente: https://www.mielcafedesign.com/services/full-branding-web-design/
 
-Positivo:
+Positivo: La navegación es fácil e intuitiva. El diseño es atractivo y limpio. La información está bien jerarquizada y completa, apoyado de imagenes que le dan un toque más cercano y personal.
 
-Negativo:
+Negativo: La gráfica es un poco infantil, y según lighthouse el performance es tiene 33/100 puntos, que es muy bajo. Ahondando en el reporte de lighthouse, tiene 83/100 puntos en accesibilidad ya que hay poco contraste entre el fondo y varios textos, además de que la tipografía de los textos es compleja y le quita legibilidad.
 
 
 **2. Freaktools**
