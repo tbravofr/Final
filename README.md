@@ -44,10 +44,9 @@ Negativo: La gráfica es un poco infantil, y según lighthouse el performance es
 
 Fuente: https://freaktools.cl/?gclid=CjwKCAjw1YCkBhAOEiwA5aN4ATAUFdGcX0R5N2jrGLsbv2m1OVXPK3V_0lYMJzYGdq__2YMlBNg0RBoCUV4QAvD_BwE
 
-Positivo:
+Positivo: Muestran inmediatamente trabajos y diseños en el banner principal de la página, por lo que es fácil hacerse una idea del contenido del resto de la página. Es fácil de navegar, ya que está todo en la barra de navegación principal y tienen una gráfica atractiva y formal. Cuando uno baja en el 'landing page', uno puede ver toda la información disponible ordenada y la selección de fotos le da un aspecto muy profesional.
 
-Negativo:
-
+Negativo: Según google lighthouse tiene 33/100 puntos en performance, debido a que sus imagenes son muy pesadas. Aunque tiene 97/100 puntos en accesibilidad, el alto contraste entre el fondo y los textos es agotador para la vista prolongada. Los banner cambian, afectando la legibilidad de ciertos textos al estar sobre una imagen de colores similares que le quita contraste.
 
 **3. AnimalFlair**
 
