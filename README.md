@@ -30,3 +30,29 @@ Es una persona muy trabajadora y muy exitosa. Trabajó mucho para tener su empre
 | ![Ana-Gonzalez](https://github.com/tbravofr/Final/assets/127959171/561dafcb-446c-4869-ba80-32e4c97b4bc7) | Las Condes, Santiago | Dueña de una agencia publicitaria. | Se ve como una persona sociable y entradora, pero no confía en cualquier persona. Su equipo de trabajo es casi el mismo desde los inicios de su empresa, por lo que no es fanática del cambio. Es muy estresada pero sabe cuando relajarse. | Incorporar una visión nueva a su equipo de diseño, para ampliar su clientela a empresas de gente más jóven. |
 
 **¿QUÉ EXISTE QUE ES SIMILAR A LA PROPUESTA?**
+
+**1. Miel Café Design**
+
+Fuente: https://www.mielcafedesign.com/services/full-branding-web-design/
+
+Positivo:
+
+Negativo:
+
+
+**2. Freaktools**
+
+Fuente: https://freaktools.cl/?gclid=CjwKCAjw1YCkBhAOEiwA5aN4ATAUFdGcX0R5N2jrGLsbv2m1OVXPK3V_0lYMJzYGdq__2YMlBNg0RBoCUV4QAvD_BwE
+
+Positivo:
+
+Negativo:
+
+
+**3. AnimalFlair**
+
+Fuente: https://animalflair.com/portafolio/
+
+Positivo:
+
+Negativo:
