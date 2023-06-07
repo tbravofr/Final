@@ -52,6 +52,6 @@ Negativo: Según google lighthouse tiene 33/100 puntos en performance, debido a 
 
 Fuente: https://animalflair.com/portafolio/
 
-Positivo:
+Positivo: Es una página con una gráfica muy bien trabajada, tiene la información accesible y bien jerarquizada. 
 
-Negativo:
+Negativo: En algunas páginas de la barra de navegación uno puede ver que las fotos de banner no hacen buen contraste con los links de la barra. Además, no hace falta saber que el puntaje de performance en google lighthouse es bajo para darse cuenta de que la página funciona lento. La barra de navegación lateral no está bien ejecutada, ya que se sale de la paleta de colores y muestra las opciones de una forma poco inteligente, es decir, hacia el lado, y no hacia abajo. 
